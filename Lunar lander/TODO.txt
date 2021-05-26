@@ -1,0 +1,6 @@
+1. Make it so all audio has the two parameters in play and hceck
+2. lander odesn't move for some reeason
+3. can't hear audio for some reeason
+4. make fuel on screen
+5. make ground on screen.
+6. maybe make lander larger than 16x16
